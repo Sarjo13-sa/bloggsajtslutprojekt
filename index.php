@@ -33,7 +33,7 @@ $movies = $result->fetch_all(MYSQLI_ASSOC);
 </head>
 
 <body>
-    <h1>Bloggsajt </h1>
+    <h1>Bloggsajt Hej!</h1>
     <?php
 
     foreach ($movies as $movie) {
